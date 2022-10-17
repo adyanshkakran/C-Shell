@@ -1,6 +1,8 @@
 # OSN Assignment 2
 
 ### This shell has been created by Adyansh Kakran - 202111020.
+To run this shell, go to your linux terminal and enter `make` in the working directory of the Shell. Then enter `./main` to run the shell.
+
 ## The files in this submission of the shell are -
 * `main.c` contains the main shell loop, all kinds of variable declarations and a function that processes all commands given to it.
 * `functions.c` contains all the builtin commands of this shell including echo, pwd, ls, pinfo, discover, history and also the function to print the prompt on the screen.
