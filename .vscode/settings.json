@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "headers.h": "c",
+        "stdio.h": "c",
+        "exception": "c",
+        "bg.h": "c",
+        "utils.h": "c"
+    }
+}
